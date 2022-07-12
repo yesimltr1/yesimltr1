@@ -18,6 +18,7 @@ Hi there 👋 Get Ready for Battle!!
 
 - 🤡 Fun fact: I'm the fan of Matrix(as u can see)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesimltr1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
