@@ -22,5 +22,4 @@ Hi there 👋 Get Ready for Battle!!
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yesimltr1&theme=tokyonight)
 
